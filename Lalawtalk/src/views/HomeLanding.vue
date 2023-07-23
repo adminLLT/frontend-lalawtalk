@@ -2,7 +2,11 @@
 <template>
     <component :is="currentTab" ></component>
     <div>
-<h1>hello madafak</h1>
+        <div class="container">
+          <h1 class="text-center" style="color: #FBD653; font-size: 84px; font-family: Inter; font-weight: 700; line-height: 16.71px; word-wrap: break-word">
+            LALAWTALK
+          </h1>
+        </div>
     </div>
 </template>
 
